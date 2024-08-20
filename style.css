@@ -87,7 +87,6 @@ nav i {
   font-weight: 400;
   text-transform: uppercase;
   transition: 0.5s;
-  cursor: pointer;
 }
 
 .content button:hover {
